@@ -1,0 +1,3 @@
+[submodule "SparkFun-Eagle-Libraries"]
+	path = SparkFun-Eagle-Libraries
+	url = git://github.com/sparkfun/SparkFun-Eagle-Libraries.git
