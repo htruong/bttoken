@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,16 +39,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="7" fill="1" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -7891,7 +7891,7 @@ infrared emitting diode, Infineon</description>
 <part name="U$13" library="BlueRadios_D2_S2_C46_Eagle_footprint" deviceset="BR-LE4.0-S3" device=""/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-MOMENTARY-2" device="-SMD-1101NE" value="SWITCH-MOMENTARY-2-SMD-1101NE"/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
-<part name="PZO_HDR" library="jumper" deviceset="JP1E" device=""/>
+<part name="PZO_HDR" library="jumper" deviceset="JP1E" device="" value="0"/>
 <part name="R8" library="rcl" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="T1" library="transistor" deviceset="*-NPN-" device="SOT23-BEC" technology="MMBT3904LT1" value="MMBT3904"/>
@@ -7899,7 +7899,6 @@ infrared emitting diode, Infineon</description>
 <part name="R10" library="rcl" deviceset="R-US_" device="R0805" value="150"/>
 <part name="D1" library="led" deviceset="SFH482" device="" value=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
-<part name="P+4" library="supply1" deviceset="VCC" device=""/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
@@ -8007,7 +8006,6 @@ infrared emitting diode, Infineon</description>
 </instance>
 <instance part="D1" gate="1" x="7.62" y="182.88"/>
 <instance part="GND21" gate="1" x="7.62" y="160.02"/>
-<instance part="P+4" gate="VCC" x="-22.86" y="187.96"/>
 <instance part="GND17" gate="1" x="121.92" y="276.86"/>
 </instances>
 <busses>
@@ -8043,6 +8041,11 @@ infrared emitting diode, Infineon</description>
 <wire x1="116.84" y1="83.82" x2="121.92" y2="83.82" width="0.1524" layer="91"/>
 <label x="119.38" y="83.82" size="1.778" layer="95"/>
 <pinref part="U$1" gate="G$1" pin="43"/>
+</segment>
+<segment>
+<pinref part="C4" gate="G$1" pin="1"/>
+<wire x1="5.08" y1="81.28" x2="0" y2="81.28" width="0.1524" layer="91"/>
+<label x="0" y="81.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -8207,6 +8210,32 @@ infrared emitting diode, Infineon</description>
 <pinref part="U$13" gate="G$1" pin="P$1"/>
 <junction x="116.84" y="279.4"/>
 </segment>
+<segment>
+<pinref part="CV2" gate="G$1" pin="1"/>
+<pinref part="CV4" gate="G$1" pin="1"/>
+<pinref part="CV1" gate="G$1" pin="1"/>
+<pinref part="CV3" gate="G$1" pin="1"/>
+<pinref part="CV0" gate="G$1" pin="1"/>
+<wire x1="106.68" y1="195.58" x2="106.68" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="203.2" x2="114.3" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="203.2" x2="121.92" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="203.2" x2="129.54" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="203.2" x2="137.16" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="203.2" x2="144.78" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="203.2" x2="149.86" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="195.58" x2="114.3" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="195.58" x2="121.92" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="195.58" x2="129.54" y2="203.2" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="195.58" x2="137.16" y2="203.2" width="0.1524" layer="91"/>
+<pinref part="CVOUT" gate="G$1" pin="1"/>
+<wire x1="144.78" y1="195.58" x2="144.78" y2="203.2" width="0.1524" layer="91"/>
+<junction x="114.3" y="203.2"/>
+<junction x="121.92" y="203.2"/>
+<junction x="129.54" y="203.2"/>
+<junction x="137.16" y="203.2"/>
+<junction x="144.78" y="203.2"/>
+<pinref part="GND26" gate="1" pin="GND"/>
+</segment>
 </net>
 <net name="ADVCC" class="0">
 <segment>
@@ -8266,6 +8295,11 @@ infrared emitting diode, Infineon</description>
 <label x="48.26" y="193.04" size="1.778" layer="95"/>
 <pinref part="U$11" gate="G$1" pin="VDD"/>
 <pinref part="U$11" gate="G$1" pin="VDD2"/>
+</segment>
+<segment>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="-17.78" y1="185.42" x2="-22.86" y2="185.42" width="0.1524" layer="91"/>
+<label x="-22.86" y="185.42" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -8650,13 +8684,6 @@ infrared emitting diode, Infineon</description>
 <wire x1="7.62" y1="185.42" x2="-7.62" y2="185.42" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="VCC" class="0">
-<segment>
-<pinref part="P+4" gate="VCC" pin="VCC"/>
-<pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="-22.86" y1="185.42" x2="-17.78" y2="185.42" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$11" class="0">
 <segment>
 <pinref part="CV1" gate="G$1" pin="2"/>
@@ -8695,33 +8722,6 @@ infrared emitting diode, Infineon</description>
 <wire x1="144.78" y1="187.96" x2="144.78" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="U$11" gate="G$1" pin="VOUT"/>
 <wire x1="144.78" y1="172.72" x2="96.52" y2="172.72" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$20" class="0">
-<segment>
-<pinref part="CV2" gate="G$1" pin="1"/>
-<pinref part="CV4" gate="G$1" pin="1"/>
-<pinref part="CV1" gate="G$1" pin="1"/>
-<pinref part="CV3" gate="G$1" pin="1"/>
-<pinref part="CV0" gate="G$1" pin="1"/>
-<wire x1="106.68" y1="195.58" x2="106.68" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="203.2" x2="114.3" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="203.2" x2="121.92" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="203.2" x2="129.54" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="203.2" x2="137.16" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="137.16" y1="203.2" x2="144.78" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="144.78" y1="203.2" x2="149.86" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="195.58" x2="114.3" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="195.58" x2="121.92" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="195.58" x2="129.54" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="137.16" y1="195.58" x2="137.16" y2="203.2" width="0.1524" layer="91"/>
-<pinref part="CVOUT" gate="G$1" pin="1"/>
-<wire x1="144.78" y1="195.58" x2="144.78" y2="203.2" width="0.1524" layer="91"/>
-<junction x="114.3" y="203.2"/>
-<junction x="121.92" y="203.2"/>
-<junction x="129.54" y="203.2"/>
-<junction x="137.16" y="203.2"/>
-<junction x="144.78" y="203.2"/>
 </segment>
 </net>
 <net name="N$21" class="0">
